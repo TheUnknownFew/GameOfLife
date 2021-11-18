@@ -9,7 +9,7 @@
 
 ## About
 
-Welcome to my project. This is a self-assigned excersie where I have/am going to develope Conway's Game of Life in stages starting with a simple implementation and the working up to a more advanced, graphical implementation.
+Welcome to my project. This is a self-assigned exercise where I have/am going to develop Conway's Game of Life in stages starting with a simple implementation and the working up to a more advanced, graphical implementation.
 
 For this project, I have specific goals I want to achieve such as learning how to implement a rendering API. I feel that Conway's Game of Life is simple enough that I can spend more time focusing on learning goals rather than mulling over specific design details.
 
@@ -21,7 +21,7 @@ The project currently implements a finite grid with manual function calls to set
 
 > Learning a rendering API
 
-For this project, I want learn to implement some sort of rendering API such as OpenGL or DirectX. The specific API has not been decided upon at this time.
+For this project, I want to learn to implement a rendering API such as OpenGL or DirectX. The specific API has not been decided upon at this time.
 
 > Creating a build system
 
@@ -29,7 +29,7 @@ I plan on learning how to build a project using Premake.
 
 > Exploring different implementations and methodologies
 
-As I am starting from a simple implementation and working up to a more advanced implementation, I want to go over existing code and either re-implemennt it differently or optimize it. At the end of the day, I want to be able to compare and contrast code that I have made that does exactly the same thing, but implemented in drastically different manenrs.
+As I am starting from a simple implementation and working up to a more advanced implementation, I want to go over existing code and either re-implement it differently or optimize it. At the end of the day, I want to be able to compare and contrast code that I have made that does exactly the same thing, but implemented in drastically different manners.
 
 ---
 
@@ -39,7 +39,7 @@ The following are what I intend on implementing.
 
 ```plaintext
 ✅ Make a console demo.
-📌 Choose a GUI API amd Implement a GUI application.
+📌 Choose a GUI API and Implement a GUI application.
 📌 Setup Premake.
 📌 Implement a pseudo-infinite grid.
     📌 Horizontal and vertical scrolling across the grid.
